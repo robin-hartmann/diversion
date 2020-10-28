@@ -1,3 +1,8 @@
 {
+  // this is a single line comment to test whether this breaks the parser
   "prettier": "https://raw.githubusercontent.com/robin-hartmann/template-node-ts/master/.prettierrc.js"
+  /*
+  this is a multi line comment
+  to test whether this breaks the parser
+  */
 }
